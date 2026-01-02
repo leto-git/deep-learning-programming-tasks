@@ -1,2 +1,2 @@
 # deep-learning-practical-task
-Practical task for a deep learning lecture.
+Programming tasks for my `Deep learning for engineers` lecture.
