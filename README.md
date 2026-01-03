@@ -1,8 +1,9 @@
-# deep-learning-practical-task
-Programming tasks for a `Deep learning for engineers` lecture.
+# Deep learning practical tasks
+Two programming tasks for a `Deep learning for engineers` lecture.
 
-## Task description
+## Tasks description
 The first task is to train a **linear regression model** to predict agricultural harvest yields based on data from a .csv file.
+
 In the second task a **classification model** is trained in order to distinguish between two animal species based on their measurements.
 
 ## Libraries and Resources
